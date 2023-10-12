@@ -18,7 +18,7 @@ You can download the dataset [here](https://drive.google.com/drive/u/0/folders/1
     3. "Money"
     4. "Breathe"
     5. "Time"
-    6."Brain"
+    6. "Brain"
     7. "Echoes"
     8. "Wearing"
     9. "Sorrow"
