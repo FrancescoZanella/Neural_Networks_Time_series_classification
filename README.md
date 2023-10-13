@@ -35,7 +35,7 @@ You can download the dataset [here](https://drive.google.com/drive/u/0/folders/1
 
 
 ## Report
-For more details about the model you can read the [report](https://github.com/FrancescoZanella/Neural_networks_Plant_species_classification/blob/main/REPORT_HOMEWORK1.docx), where everyting is explained in detail.
+For more details about the model you can read the [report](https://github.com/FrancescoZanella/Neural_Networks_Time_series_classification/FinalReport.docx), where everyting is explained in detail.
 
 
 ## Conclusion
